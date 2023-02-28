@@ -18,7 +18,7 @@ description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for
 baseurl: "/Folio"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://an-droidx.github.io/Folio/"
+url: "https://an-droidx.github.io/Folio"
 
 # Favicon
 favicon: images/favicon.png
